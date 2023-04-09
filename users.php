@@ -32,7 +32,7 @@
     if(!$retval){
         die('Could not insert to table: ' . mysqli_error($conn));
     }else{
-
+        // construct html to Visualize fetched data
 ?>
 <!DOCTYPE html>
 <html lang="en">
