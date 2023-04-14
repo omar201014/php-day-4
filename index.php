@@ -16,7 +16,7 @@
         </div>
         <div class="row mt-5">
 
-            <form method="post" action="users.php">
+            <form method="POST" action="users.php">
                 <div class="mb-3">
                     <label for="userName" class="form-label">name</label>
                     <input name="userName" type="name" class="form-control" required>
